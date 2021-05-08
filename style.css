@@ -1,0 +1,78 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    font-weight: 700;
+}
+.back{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+   
+}
+.mark{
+   float: left;
+    width: 30%;
+    margin: 3%;
+    padding-left:2%;
+  
+}
+.mark img{
+    width: 100%;
+}
+.name
+{
+
+    color: orange;
+}
+.sec{
+    color: mediumvioletred;
+}
+.accoun{
+    color: blue;
+}
+
+.middle{
+    align-self: center;
+    padding-left: 320px;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,red,rgb(35, 25, 175));
+    padding: 10px 20px;
+    border-radius: 5px;
+  
+    color: white;
+    font-weight: 700;
+}
+section{
+    height: 500px;
+}
+.marker img {
+   
+    width: 70%;
+    
+    
+}
+.marker{
+    float: left;
+    width: 40%;
+   
+}
+.colleg{
+    color: rgb(170, 32, 14);
+}
+.versity{
+    color: green;
+}
+.para{
+    
+    margin-right: 20px;
+}
+.single{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 3px;
+    height: 65%;
+   
+}
+#full-stack{
+    border-image: 7px solid;
+}
